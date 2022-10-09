@@ -1,40 +1,42 @@
 @font-face {
-   font-family: 'Tektur';
+   font-family: "Tektur";
    font-style: normal;
-   src: url('../fonts/Tektur-Regular.ttf') format('truetype');
+   font-weight: 400;
+   src: url("../fonts/Tektur-Regular.ttf") format("truetype");
 }
 
 @font-face {
-   font-family: Tektur;
+   font-family: "Tektur";
    font-style: normal;
-   src: url(../fonts/Tektur-Medium.ttf),
-   format("ttf");
+   font-weight: 500;
+   src: url("../fonts/Tektur-Medium.ttf") format("truetype");
 }
 
 @font-face {
-   font-family: Tektur;
+   font-family: "Tektur";
    font-style: normal;
-   src: url(../fonts/Tektur-SemiBold.ttf),
-   format("ttf");
+   font-weight: 600;
+   src: url("../fonts/Tektur-SemiBold.ttf") format("truetype");
 }
 
 @font-face {
-   font-family: Tektur;
+   font-family: "Tektur";
    font-style: normal;
-   src: url(../fonts/Tektur-Bold.ttf),
-   format("ttf");
+   font-weight: 700;
+   src: url("../fonts/Tektur-Bold.ttf") format("truetype");
 }
 
 @font-face {
-   font-family: Tektur;
+   font-family: "Tektur";
    font-style: normal;
-   src: url(../fonts/Tektur-ExtraBold.ttf),
-   format("ttf");
+   font-weight: 800;
+   src: url("../fonts/Tektur-ExtraBold.ttf") format("truetype");
 }
 
 @font-face {
-   font-family: Tektur;
+   font-family: "Tektur";
    font-style: normal;
-   src: url(../fonts/Tektur-Black.ttf),
-   format("ttf");
+   font-weight: 900;
+   src: url("../fonts/Tektur-Black.ttf") format("truetype");
 }
+
