@@ -1,8 +1,7 @@
 @font-face {
-   font-family: Tektur;
+   font-family: 'Tektur';
    font-style: normal;
-   src: url(../fonts/Tektur-Regular.ttf),
-   format("ttf");
+   src: url('../fonts/Tektur-Regular.ttf') format('truetype');
 }
 
 @font-face {
