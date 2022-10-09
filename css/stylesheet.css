@@ -1,0 +1,41 @@
+@font-face {
+   font-family: Tektur;
+   font-style: normal;
+   src: url(../fonts/Tektur-Regular.ttf),
+   format("ttf");
+}
+
+@font-face {
+   font-family: Tektur;
+   font-style: normal;
+   src: url(../fonts/Tektur-Medium.ttf),
+   format("ttf");
+}
+
+@font-face {
+   font-family: Tektur;
+   font-style: normal;
+   src: url(../fonts/Tektur-SemiBold.ttf),
+   format("ttf");
+}
+
+@font-face {
+   font-family: Tektur;
+   font-style: normal;
+   src: url(../fonts/Tektur-Bold.ttf),
+   format("ttf");
+}
+
+@font-face {
+   font-family: Tektur;
+   font-style: normal;
+   src: url(../fonts/Tektur-ExtraBold.ttf),
+   format("ttf");
+}
+
+@font-face {
+   font-family: Tektur;
+   font-style: normal;
+   src: url(../fonts/Tektur-Black.ttf),
+   format("ttf");
+}
